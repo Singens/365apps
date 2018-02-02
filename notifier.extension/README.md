@@ -3,7 +3,7 @@ This repository contains the source code of the **Notifier Extension**.
 
 **Notifier** is a SharePoint add-in that is available for installation through the Microsoft store for business apps AppSource. **Notifier Extension** is a free SharePoint Framework extension that depend on Notifier add-in.
 
-![Notifier](./assets/images/notifier.preview.gif)
+![Notifier](../assets/notifier.preview.gif)
 
 **Notifer** add-in provides functionality for displaying global messages to all pages in a SharePoint site. Due to security restriction of the store, the add-in cannot registry global script (ScriptLink) in the SharePoint site.
 **Notifier Extension** implemented as SharePoint Framework Application Customizer can register global script and load it in all "modern" pages.  
