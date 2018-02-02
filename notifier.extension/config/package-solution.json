@@ -1,0 +1,26 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Notifier Extension",
+    "id": "28c2aff0-f670-470f-aa7f-d5198552ce0f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "iconPath": "AppIcon.png",
+    "features": [
+      {
+        "title": "Application Extension - Deployment of custom action about add-in Notifier",
+        "description": "Deploys a custom action with ClientSideComponentId association",
+        "id": "eac7c1ab-3b71-4aaf-9cbf-7ed02f347712",
+        "version": "1.0.0.0",
+        "assets": {
+          "elementManifests": [
+            "elements.xml"
+          ]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/notifier.extension.sppkg"
+  }
+}

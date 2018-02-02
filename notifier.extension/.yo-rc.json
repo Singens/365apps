@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "notifier",
+    "libraryId": "28c2aff0-f670-470f-aa7f-d5198552ce0f",
+    "environment": "spo"
+  }
+}
