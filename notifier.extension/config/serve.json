@@ -1,0 +1,23 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://singens.sharepoint.com/",
+      "customActions": {
+        "ef4fddfe-4665-47ec-a378-9347f2603b08": {
+          "location": "ClientSideExtension.ApplicationCustomizer"
+        }
+      }
+    },
+    "notifier": {
+      "pageUrl": "https://singens.sharepoint.com/",
+      "customActions": {
+        "ef4fddfe-4665-47ec-a378-9347f2603b08": {
+          "location": "ClientSideExtension.ApplicationCustomizer"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "notifier-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/notifier/NotifierApplicationCustomizer.js",
+          "manifest": "./src/extensions/notifier/NotifierApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "NotifierApplicationCustomizerStrings": "lib/extensions/notifier/loc/{locale}.js"
+  }
+}
