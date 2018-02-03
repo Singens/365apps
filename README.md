@@ -1,5 +1,5 @@
 
-<img src="assets/Singens.png" align="right" />
+<img src="assets/singens.png" align="right"/>
 
 # Singens 365 Apps 
 This repository contains the source code of some of the Office 365 add-ins provided by Singens.
