@@ -1,5 +1,5 @@
 
-<img src="../assets/images/singens.png" align="right" />
+<img src="../assets/singens.png" align="right" />
 
 # Feedbacker Lite
 This repository will contains the source code of the **Feedbacker Lite**.
