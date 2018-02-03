@@ -12,7 +12,6 @@ lib
 solution
 temp
 
-
 # Coverage directory used by tools like istanbul
 coverage
 
